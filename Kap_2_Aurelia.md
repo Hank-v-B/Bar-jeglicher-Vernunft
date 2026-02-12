@@ -1,3 +1,5 @@
+# Kapitel 2 – Aurelia
+
 Francine lacht leise, als hätte ich ihr gerade ein kleines, elegantes Rätsel geschenkt. Sie kann freundlich, ohne dabei verfügbar zu werden. Das ist eine Kunstform, die man nicht lernt, wenn man zu oft um Zustimmung bitten musste.
 
 Colbert nickt. Kein Lächeln, aber auch kein Widerstand. Er ist nicht kalt – er ist nur konsequent. Er wirkt wie jemand, der sogar bei einem Drink eine Checkliste im Kopf führt.

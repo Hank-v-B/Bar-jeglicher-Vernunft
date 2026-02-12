@@ -1,10 +1,12 @@
+# Kapitel 1.2 – Aurelia
+
 Komisch, wie schnell sich Menschen an eine Bühne gewöhnen.
 
 Letzte Woche war es ein Tisch gewesen. Holz, Gläser, Stimmen. Ein Zufall, der sich für einen Abend wie Gemeinschaft verkleidet hatte.
 
 Heute ist es eine Anordnung.
 
-Er sieht es sofort: die Abstände, die Blickachsen, die kleinen Umwege, die man macht, um niemandem zu nahe zu kommen. Man muss niemanden fragen, wer mit wem kann. Die Körper erzählen es, bevor die Münder nachkommen.
+Ich sehe es sofort: die Abstände, die Blickachsen, die kleinen Umwege, die man macht, um niemandem zu nahe zu kommen. Man muss niemanden fragen, wer mit wem kann. Die Körper erzählen es, bevor die Münder nachkommen.
 
 Der Dominante hat den Raum übernommen, noch bevor er sitzt. Nicht durch Lautstärke. Durch Anspruch. Das ist die bessere Art. Lautstärke kann man ignorieren. Anspruch nicht – er zwingt eine Reaktion.
 
@@ -18,7 +20,7 @@ Nur hat ein Rahmen immer auch eine Frage, die niemand stellt, weil sie peinlich 
 
 _Wer hält ihn?_
 
-Er lehnt sich minimal zurück, gerade genug, um nicht in die Mitte gezogen zu werden. Man muss sichtbar bleiben, aber nicht greifbar.
+Ich lehne mich minimal zurück, gerade genug, um nicht in die Mitte gezogen zu werden. Man muss sichtbar bleiben, aber nicht greifbar.
 
 Die Elegante hält ihr Glas wie Distanz. Der Stolze hält sein Kinn wie Schild. Der Moralische hält schon das Urteil bereit, als wäre es ein Ausweis.
 
@@ -44,7 +46,7 @@ Man könnte das erklären. Man könnte es aussprechen. Man könnte es zu einem T
 
 Oder man könnte einfach warten, bis es sich von selbst entzündet.
 
-Er lässt einen Moment verstreichen, als würde er überlegen. In Wahrheit prüft er, wer zuerst in die Falle der Offenheit tritt.
+Ich lasse einen Moment verstreichen, als würde er überlegen. In Wahrheit prüft er, wer zuerst in die Falle der Offenheit tritt.
 
 Offenheit ist teuer.
 
@@ -52,13 +54,13 @@ Und wer zuerst zahlt, wirkt entweder groß – oder schwach.
 
 „Wenn wir heute keinen Ablauf finden,“ sagt der Dominante, „war das die letzte Runde.“
 
-Er droht. Er nennt es nur nicht so.
+Das ist eine Drohung. Er nennt es nur nicht so.
 
 Drohungen sind nützlich, wenn sie als Vernunft getarnt sind.
 
 Komisch: Genau deshalb wirken sie moralisch.
 
-Er beobachtet die Mikroreaktionen.
+Ich beobachte die Mikroreaktionen.
 
 Der Moralische atmet ein, als wolle er protestieren, tut es aber nicht – noch nicht. Der Stolze presst die Lippen zusammen. Die Elegante macht dieses fast unsichtbare Nicken, das sagt: _Endlich führt jemand._ Der Leise schaut nicht weg.
 
@@ -68,9 +70,9 @@ Das ist unhöflich.
 
 Und riskant.
 
-Er mag Risiko. Aber nicht, wenn es unkontrolliert ist.
+Ich mag Risiko. Aber nicht, wenn es unkontrolliert ist.
 
-Jetzt wäre der Moment, denkt er, in dem man die Sache kippen kann.
+Jetzt wäre der Moment, denke ich, in dem man die Sache kippen kann.
 
 Nicht durch Widerspruch.
 
@@ -80,11 +82,11 @@ Man kippt es durch eine Frage.
 
 Eine Frage ist weich. Sie klingt nach Interesse. Sie zwingt niemanden – und genau deshalb zwingt sie alle.
 
-Er lächelt, nur so viel, dass es freundlich wirkt. Freundlichkeit ist die beste Tarnung.
+Ich lächle, nur so viel, dass es freundlich wirkt. Freundlichkeit ist die beste Tarnung.
 
-„Komisch,“ sagt er, als hätte er sich eben erst erinnert. „Wir tun so, als wäre das hier ein Verfahren. Aber… was ist eigentlich der Maßstab?“
+„Komisch,“ sage ich, als hätte er sich eben erst erinnert. „Wir tun so, als wäre das hier ein Verfahren. Aber… was ist eigentlich der Maßstab?“
 
-Er lässt das Wort hängen.
+Ich lasse das Wort hängen.
 
 Maßstab.
 
@@ -96,15 +98,15 @@ Und nach Kontrolle.
 
 Natürlich fragt jemand. Menschen hassen Unvollständigkeit. Sie füllen sie sofort.
 
-Er zuckt die Schultern, unschuldig.
+Ich zucke die Schultern, unschuldig.
 
-„Nur… wenn wir über ‚Respekt‘ reden – wer definiert den? Wenn wir über ‚Fakten‘ reden – wessen Fakten zählen? Und wenn wir über ‚geben‘ reden…“ Er schaut einmal kurz zum Stolzen, als wäre es zufällig. „…wer entscheidet, was genug ist?“
+„Nur… wenn wir über ‚Respekt‘ reden – wer definiert den? Wenn wir über ‚Fakten‘ reden – wessen Fakten zählen? Und wenn wir über ‚geben‘ reden…“ Ich schaue einmal kurz zum Stolzen, als wäre es zufällig. „…wer entscheidet, was genug ist?“
 
 Das ist die elegante Art, einen Keil zu setzen.
 
-Er benennt nichts.
+Ich benenne nichts.
 
-Er deutet nur an, dass etwas schief sein könnte.
+Ich deute nur an, dass etwas schief sein könnte.
 
 Und sofort beginnt im Raum diese bekannte Bewegung: Jeder prüft, ob er gemeint ist.
 
@@ -118,7 +120,7 @@ Das ist das Schöne an Fragen: Sie sind wie Spiegel. Man kann ihnen ausweichen �
 
 Der Leise beobachtet. Natürlich.
 
-Vielleicht ist das der eigentliche Kampf, denkt er. Nicht der zwischen Moral und Pragmatik, nicht der zwischen oben und unten.
+Vielleicht ist das der eigentliche Kampf, denke ich. Nicht der zwischen Moral und Pragmatik, nicht der zwischen oben und unten.
 
 Der Kampf zwischen den beiden Arten von Ordnung.
 
@@ -128,14 +130,14 @@ Die andere entsteht still.
 
 Und stille Ordnung ist schwerer zu kontrollieren.
 
-Er hält das Lächeln.
+Ich halte das Lächeln.
 
 Nicht freundlich.
 
 Nur so, dass es wie Vernunft wirkt.
 
-„Ich frag ja nur,“ sagt er.
+„Ich frag ja nur,“ sage ich.
 
-Und er weiß: Das ist selten wahr.
+Und ich weiß: Das ist selten wahr.
 
 Aber es ist fast immer wirksam.

@@ -1,8 +1,10 @@
-Aurelia kommt nicht einfach herein. Sie verändert den Raum, bevor sie den ersten Schritt ganz gesetzt hat.
+# Kapitel 2.1 – Colbert
+
+Ich merke es sofort: Aurelia kommt nicht einfach herein. Sie verändert den Raum, bevor sie den ersten Schritt ganz gesetzt hat.
 
 Die Tür öffnet sich, und für einen Moment sortiert sich die Aufmerksamkeit neu – nicht laut, nicht sichtbar, aber eindeutig. Aurelia erzeugt keinen Lärm. Sie erzeugt Priorität.
 
-Neben ihr: ein Neuer. Thomas. Haltung sauber, Tempo minimal gedrosselt, Blick wach. Kein Auftritt, kein Entschuldigen. Gut. Menschen, die sich sofort erklären, sind leichter. Menschen, die zuerst lesen, sind interessanter.
+Neben ihr steht ein Neuer: Thomas. Haltung sauber, Tempo minimal gedrosselt, Blick wach. Kein Auftritt, kein Entschuldigen. Gut. Menschen, die sich sofort erklären, sind leichter. Menschen, die zuerst lesen, sind interessanter.
 
 Aurelia führt ihn nicht an der Hand, aber sie hält ihn in ihrer Gravitation. Ein halber Schritt, ein Winkel, ein Blick, der sagt: _Du bist bei mir, also bist du richtig._ Das ist Schutz und Bindung in einem.
 

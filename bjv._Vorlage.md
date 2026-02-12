@@ -1,8 +1,6 @@
-# Romanvorlage (ca. 200 Seiten)
+# Romanvorlage
 
-> **Ziel:** Eine ausfüllbare Manuskript-Vorlage, die bei normalem Roman-Layout auf ca. **200 Buchseiten** hinausläuft.
->
-> **Empfohlener Umfang:** ca. **65.000–85.000 Wörter** (je nach Schrift/Format)
+> **Ziel:** Eine ausfüllbare Manuskript-Vorlage.
 >
 > **Erzählregel:**
 > _Pro Kapitel genau eine Perspektive (POV). Erkennbar nur über Kapitelwechsel + individuelle Stimme (Idiolekt)._
@@ -40,13 +38,16 @@
 
 ### 2.1 Rollen (Labels)
 - **Beobachter** (introvertiert; wird am Ende zur eigentlichen Hauptfigur) (Thomas)
+    - Thomas ist der mysteriöse Erzähler in Kapitel_1_Thomas    
 - **Frontfigur** (laut; drückt Entscheidungen) (Kolbert)
-- **Brandbeschleuniger** (subtil; befeuert Misstrauen) (Hartman)
 - **Reiche** (oben; Statusangst) (Aurelia)
-- **Armer** (unten; Stolz, Abwehr gegen Herablassung) (Hank)
-- **Pragmatikerin** (lösungsorientiert) (Beth)-) **Idealistin** (moralischer Kompass, kompromissscheu) (Prudence)
+- **Vermittlerin** (emotionaler Kitt) (Francine)
+- **Brandbeschleuniger** (subtil; befeuert Misstrauen) (Chester)
+- **Idealistin** (moralischer Kompass, kompromissscheu) (Prudence)
+    - Mag und bewundert Thomas, ist aber zu scheu sich ihm anzunähern
+- **Pragmatikerin** (lösungsorientiert) (Cassandra)
 - **Zyniker** (entlarvend, schützt eigene Wunde) (Mockridge)
-- **Vermittlerin** (emotionaler Kitt) (Franziska)
+- **Armer** (unten; Stolz, Abwehr gegen Herablassung) (Hank)
 
 
 ## POV-Guide: Thomas
@@ -99,7 +100,7 @@
 
 ***
 
-## POV-Guide: Colbert
+## POV-Guide: Kolbert
 
 **Kerntrieb:** Ordnung gegen sinnlosen Verlust. Er will **Form**, damit nichts verrottet.\
 **Grundhaltung:** Unpoetisch, scharf, konsequent. Allergisch gegen Nebel.\
@@ -244,24 +245,17 @@
 
 * Wenn sie jemanden lobt: indirekt, kurz, kontrolliert.
 
-
 ## POV-Guide: Chester
 - Satzbau: _[scheinbar sanft / fragend]_
 - Lieblingswörter: _[„nur“, „vielleicht“, „komisch“]_
 - Denkmuster: Deutung/Insinuation/„Nur Fragen“
 
-## POV-Guide: Hank
-**Armer**
-- Satzbau: _[direkt / kurz]_
-- Lieblingswörter: _[„ehrlich“, „lass“]_
-- Denkmuster: Würde/Respekt/Abwehr
-
-## POV-Guide: Clara
+## POV-Guide: Prudence
 - Satzbau: _[listenhaft / klar]_
 - Lieblingswörter: _[„Plan“, „Fakten“]_
 - Denkmuster: Lösungen/Trade-offs
 
-## POV-Guide: Prudence
+## POV-Guide: Cassandra
 - Satzbau: _[prinzipienfest / wertend]_
 - Lieblingswörter: _[„richtig“, „falsch“]_
 - Denkmuster: Moral/Schuld/Reinheit
@@ -270,6 +264,7 @@
 - Satzbau: _[spitz / ironisch]_
 - Lieblingswörter: _[„natürlich“, „klar“]_
 - Denkmuster: Widerspruch/Peinlichkeit/Entlarvung
+- Denkmuster: Würde/Respekt/Abwehr
 
 ## POV-Guide: Cassandra
 - Satzbau: _[warm / emotional]_
@@ -278,6 +273,14 @@
 
 ---
 
+## POV-Guide: Hank
+**Mittelstands-Kid, rebellisch**
+- Spielt Gitarre und Schlagzeug
+- Weiß nicht recht wohin mit sich
+- Ist ständig im Streit mit allem und Jedermann
+- Satzbau: direkt / kurz, manchmal ausufernd, wenn es um Gerechtigkeit und Fairness geht. Spricht direkt ohne Umwege.
+- Lieblingswörter: „ehrlich“, „lass“, "Komm" "Ach ja?" "Na und?" "Haub ab"
+  
 ## 3) Struktur & Umfangplanung
 ### 3.1 Ziel-Architektur (ca. 200 Seiten)
 - **30 Kapitel** à ca. **6–7 Seiten**
