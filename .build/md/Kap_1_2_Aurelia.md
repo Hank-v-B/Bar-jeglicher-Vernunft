@@ -2,11 +2,11 @@
 
 Komisch, wie schnell sich Menschen an eine Bühne gewöhnen.
 
-_↩︎ Kontext: [[Kap_1_1_Colbert|Kapitel 1.1 – Colbert]]_
+_↩︎ Kontext: [Kapitel 1.1 – Colbert](Kap_1_1_Colbert.html)_
 
-_→ Weiter: [[Kap_2_Aurelia|Kapitel 2 – Aurelia]]_
+_→ Weiter: [Kapitel 2 – Aurelia](Kap_2_Aurelia.html)_
 
-_⇢ Gegenpol: [[Kap_2_2_Francine|Kapitel 2.2 – Francine]]_
+_⇢ Gegenpol: [Kapitel 2.2 – Francine](Kap_2_2_Francine.html)_
 
 
 Letzte Woche war es ein Tisch gewesen. Holz, Gläser, Stimmen. Ein Zufall, der sich für einen Abend wie Gemeinschaft verkleidet hatte.
@@ -53,7 +53,7 @@ Man könnte das erklären. Man könnte es aussprechen. Man könnte es zu einem T
 
 Oder man könnte einfach warten, bis es sich von selbst entzündet.
 
-Ich lasse einen Moment verstreichen, als würde ich überlegen. In Wahrheit prüfe ich – so wirkt es jedenfalls –, wer zuerst in die Falle der Offenheit tritt.
+Ich lasse einen Moment verstreichen, als würde ich überlegen. In Wahrheit prüfe ich, wer zuerst in die Falle der Offenheit tritt.
 
 Offenheit ist teuer.
 

@@ -2,11 +2,11 @@
 
 Der erste Satz hat den Ton von Ordnung.
 
-_↩︎ Kontext: [[Kap_1_Thomas|Kapitel 1]]_
+_↩︎ Kontext: [Kapitel 1](Kap_1_Thomas.html)_
 
-_→ Weiter: [[Kap_1_2_Aurelia|Kapitel 1.2 – Aurelia]]_
+_→ Weiter: [Kapitel 1.2 – Aurelia](Kap_1_2_Aurelia.html)_
 
-_⇢ Echo: [[Kap_2_1_Colbert|Kapitel 2.1 – Colbert]]_
+_⇢ Echo: [Kapitel 2.1 – Colbert](Kap_2_1_Colbert.html)_
 
 
 Ich sage ihn, als hätte ich ihn schon hundertmal gesagt – nicht laut, nicht freundlich, aber so, dass er passiert. Ich kenne diesen Ton. Er ist nicht böse. Er ist nur allergisch gegen sinnlose Verluste.
