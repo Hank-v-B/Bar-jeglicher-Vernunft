@@ -1,4 +1,4 @@
-# Kapitel 1
+# Kapitel 1 {#kap-1}
 
 Ein Satz reicht, und der Raum kippt.
 
@@ -11,7 +11,7 @@ Und sofort beginnt etwas zu zählen, das niemand laut ausspricht.
 Nicht Beträge.  
 Abstände.
 
-Ich sehe es an den winzigen Signalen: ein Atem, der stolpert; Augen, die ausweichen; eine Hand, die das Glas fester umfasst, als müsste sie sich halten. Und ich merke an mir selbst diesen Tick zu viel Stille – als würde ich prüfen, ob ich den Satz zurückholen kann.
+Ich sehe es an den winzigen Signalen: ein Atem, der stolpert; Augen, die ausweichen; eine Hand, die das Glas fester umfasst, als müsste sie sich halten. Und ich merke, wie ich selbst einen Moment zu lange still bleibe – als könnte ich den Satz zurückholen, wenn ich nur früh genug bremse.
 
 Mein Reflex ist alt: glätten, vermitteln, den Moment zurück in die Normalform drücken.
 
@@ -30,7 +30,7 @@ Doch ich spüre, wie es in zwei Richtungen zieht:
 Für manche ist es Fairness.  
 Für andere ist es ein Stempel.
 
-Mir kommt es vor, als hätte ich diesen Moment schon einmal erlebt – nur in einem anderen Raum, mit anderen Gesichtern. Meine Augen gehen kurz herum, nicht suchend, eher messend. Ich bin nicht der Lauteste, aber ich merke, wenn eine Gruppe kippt.
+Ich kenne diesen Moment. Nicht, weil er sich wiederholt – sondern weil die Mechanik dieselbe ist: Gesichter bleiben freundlich, aber der Blick wird zur Messung. Niemand ist der Lauteste. Und doch kippt ein Raum manchmal in Sekundenschnelle.
 
 Und ich weiß: Das hier ist keine Informationsfrage.  
 Das ist eine Prüfung.

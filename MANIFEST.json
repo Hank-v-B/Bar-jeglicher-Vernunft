@@ -1,0 +1,29 @@
+{
+  "created": "2026-02-12",
+  "contents": {
+    "src": [
+      "Kap_1_1_Colbert.md",
+      "Kap_1_2_Aurelia.md",
+      "Kap_1_Thomas.md",
+      "Kap_2_1_Colbert.md",
+      "Kap_2_2_Francine.md",
+      "Kap_2_Aurelia.md",
+      "bjv._Vorlage.md"
+    ],
+    "html": [
+      "Kap_1_1_Colbert.html",
+      "Kap_1_2_Aurelia.html",
+      "Kap_1_Thomas.html",
+      "Kap_2_1_Colbert.html",
+      "Kap_2_2_Francine.html",
+      "Kap_2_Aurelia.html",
+      "bjv._Vorlage.html",
+      "index.html",
+      "site.css"
+    ],
+    "tools": [
+      "build_html.ps1",
+      "convert-wikilinks.ps1"
+    ]
+  }
+}

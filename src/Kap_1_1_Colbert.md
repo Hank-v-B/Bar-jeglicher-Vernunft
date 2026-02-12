@@ -1,8 +1,15 @@
-# Kapitel 1.1 – Colbert
+# Kapitel 1.1 – Colbert {#kap-1-1-colbert}
 
 Der erste Satz hat den Ton von Ordnung.
 
-Ich sage ihn, als hätte er ihn schon hundertmal gesagt – nicht laut, nicht freundlich, aber so, dass er passiert. Ich kenne diesen Ton. Er ist nicht böse. Er ist nur allergisch gegen sinnlose Verluste.
+_↩︎ Kontext: [[Kap_1_Thomas|Kapitel 1]]_
+
+_→ Weiter: [[Kap_1_2_Aurelia|Kapitel 1.2 – Aurelia]]_
+
+_⇢ Echo: [[Kap_2_1_Colbert|Kapitel 2.1 – Colbert]]_
+
+
+Ich sage ihn, als hätte ich ihn schon hundertmal gesagt – nicht laut, nicht freundlich, aber so, dass er passiert. Ich kenne diesen Ton. Er ist nicht böse. Er ist nur allergisch gegen sinnlose Verluste.
 
 Eine Woche ist lang genug, um aus einer Kränkung eine Geschichte zu bauen. Man poliert sie, man übt sie, man bringt sie auf Form. Und wenn man zurückkommt, ist niemand mehr beim Ereignis – alle sind schon beim Urteil.
 
@@ -12,7 +19,7 @@ Es ist die Ordnung der Abstände.
 
 Nicht wer wo sitzt, sondern wer wem ausweicht. Wer den Blick hält. Wer ihn verliert. Wer zu früh da ist, weil er Kontrolle braucht. Wer zu spät kommt, weil er testen will, ob ihn noch jemand will.
 
-Ich setze mich nicht sofort. Nicht aus Vorsicht. Aus Messung. Er steht einen Tick zu lange, als würde er die Runde inventarisieren.
+Ich setze mich nicht sofort. Nicht aus Vorsicht. Aus Messung. Ich stehe einen Tick zu lange, als würde er die Runde inventarisieren.
 
 Ich sehe den Stolzen: Kinn minimal zu hoch. Den Moralischen auch, mit diesem Gesichtsausdruck, als wäre die Welt ein Gerichtssaal und er die Anklage. Die Elegante hält sich über Wasser, indem sie Distanz hält. Und da ist der Leise, der beim letzten Mal diese Runde vorgeschlagen hat – zu ruhig, zu aufmerksam.
 
@@ -54,7 +61,7 @@ Ich setze mich. Nicht an den Rand. Nicht ins Zentrum. So, dass der Tisch zusamme
 
 „Ist es“, sage ich. „Und du weißt es.“
 
-Ich lasse den Blick einmal rumgehen. Ich merke, wie er die Runde zu einer Maschine machen will – nicht aus Liebe zur Maschine, sondern weil Chaos immer die gleichen Leute frisst.
+Ich lasse den Blick einmal rumgehen. Ich merke, wie ich die Runde zu einer Maschine machen will – nicht aus Liebe zur Maschine, sondern weil Chaos immer die gleichen Leute frisst.
 
 „Jeder spricht, wenn er dran ist. Heute sagt jeder drei Dinge: Was er will. Was er befürchtet. Und was er bereit ist zu geben. Dann haben wir was, womit man arbeiten kann.“
 
@@ -70,7 +77,7 @@ Wenn es nicht weh tut, ist es keine Einigung.
 
 Der Leise sieht mich an, als würde er messen, ob er’s ernst meint.
 
-Ich hält den Blick.
+Ich halte den Blick.
 
 „Und bevor einer wieder so tut, als wäre das hier zufällig“, sage ich, „sage ich’s klar: Wenn wir heute keinen Ablauf finden, dann war das die letzte Runde. Dann geht jeder wieder sein eigenes Ding machen. Aber dann soll keiner später erzählen, es habe ihn überrascht.“
 

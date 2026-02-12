@@ -1,10 +1,17 @@
-# Kapitel 2 – Aurelia
+# Kapitel 2 – Aurelia {#kap-2-aurelia}
 
 Francine lacht leise, als hätte ich ihr gerade ein kleines, elegantes Rätsel geschenkt. Sie kann freundlich, ohne dabei verfügbar zu werden. Das ist eine Kunstform, die man nicht lernt, wenn man zu oft um Zustimmung bitten musste.
 
-Colbert nickt. Kein Lächeln, aber auch kein Widerstand. Er ist nicht kalt – er ist nur konsequent. Er wirkt wie jemand, der sogar bei einem Drink eine Checkliste im Kopf führt.
+_↩︎ Vorlauf: [[Kap_1_2_Aurelia|Kapitel 1.2 – Aurelia]]_
 
-Thomas nimmt den Moment, ohne ihn zu überfahren. Genau das wollte ich sehen: Kann er in einem Raum stehen, der schon eine Ordnung hat, ohne sofort eine neue zu verlangen?
+_→ Schnittstelle: [[Kap_2_1_Colbert|Kapitel 2.1 – Colbert]]_
+
+_⇢ Spiegel: [[Kap_2_2_Francine|Kapitel 2.2 – Francine]]_
+
+
+Colbert nickt, und ich sehe: kein Lächeln, aber auch kein Widerstand. Er ist nicht kalt – er ist nur konsequent. Er wirkt wie jemand, der sogar bei einem Drink eine Checkliste im Kopf führt.
+
+Ich sehe, wie Thomas den Moment nimmt, ohne ihn zu überfahren. Genau das wollte ich sehen: Kann er in einem Raum stehen, der schon eine Ordnung hat, ohne sofort eine neue zu verlangen?
 
 „Freut mich“, sagt Francine, und ihre Stimme legt etwas Seide über das Metall der Situation. „Aurelia hat schon ein paar Mal von dir gesprochen.“
 
@@ -26,7 +33,7 @@ Thomas nickt, als würde er die Kante anerkennen. „Weniger bequem“, sagt er.
 
 Francine schaut mich kurz an, als hätte sie gerade entschieden, Thomas einen Pluspunkt zu geben. Nicht, weil „wahr“ moralisch schön ist – sondern weil es selten ist, dass jemand sich freiwillig unbequem macht, ohne es als Pose zu verkaufen.
 
-Colbert bleibt ruhig. Zu ruhig. Er speichert.
+Colbert bleibt ruhig. Zu ruhig. Ich merke: er speichert.
 
 Ich setze den nächsten Rahmen. Nicht als Befehl, sondern als selbstverständlich klingende Bewegung.
 
@@ -157,4 +164,3 @@ Und ich sehe Hank an, so wie man einen Menschen ansieht, der gerade in eine neue
 Nicht prüfend. Einladend.
 
 Denn das ist die eigentliche Macht: Dass man jemanden willkommen heißen kann, ohne sich kleiner zu machen.
-

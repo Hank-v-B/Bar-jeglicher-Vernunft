@@ -1,11 +1,26 @@
-# Romanvorlage
+# Romanvorlage {#romanvorlage}
 
 > **Ziel:** Eine ausfüllbare Manuskript-Vorlage.
 >
 > **Erzählregel:**
 > _Pro Kapitel genau eine Perspektive (POV). Erkennbar nur über Kapitelwechsel + individuelle Stimme (Idiolekt)._
-> **In Kapitel 1 werden keine Namen genannt.**
-> **Namensnennugen erst ab Kapitel 1.12.**
+> **Nur in `Kap_1_Thomas.md` werden keine Namen genannt.**
+---
+
+## WikiLinks (Authoring & Export) {#wikilinks}
+
+**Ziel:** Beim Schreiben schnell bleiben (`[[...]]`), beim Export saubere Links erhalten (Pandoc → HTML/PDF).
+
+**Authoring-Regeln**
+- Kapitel/Datei verlinken: `[[Kap_2_2_Francine]]`
+- Mit Anzeigetext: `[[Kap_2_2_Francine|Kapitel 2.2 – Francine]]`
+- Mit Anchor/ID: `[[Kap_2_2_Francine#kap-2-2-francine|Sprung zu 2.2]]`
+
+**Beispiele**
+- Kontextlink: `[[Kap_2_1_Colbert|Vorher: Colbert (2.1)]]`
+- Gegenperspektive: `[[Kap_2_Aurelia|Aurelia (2)]]`
+- Rücksprung: `[[Kap_1_Thomas|Zum Auftakt (Kapitel 1)]]`
+
 ---
 
 ## 0) Projekt-Header

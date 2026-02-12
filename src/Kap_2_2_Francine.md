@@ -1,6 +1,8 @@
-# Kapitel 2.2 – Francine
+# Kapitel 2.2 – Francine {#kap-2-2-francine}
 
 Colbert sagt seinen Satz wie ein Gastgeber. Als hätte er Hank nicht „mitgebracht“, sondern gefunden.
+
+_↩︎ Kontext: [[Kap_2_1_Colbert|Kapitel 2.1 – Colbert]]_
 
 „Hank ist auch hier.“
 
@@ -8,7 +10,7 @@ Ich registriere sofort, wie sich der Raum aufstellt: ein kurzer Fokus, ein still
 
 Ich lächle. In solchen Momenten ist ein Lächeln selten ein Gefühl. Es ist ein Werkzeug. Es hält den Raum weich, damit das Metall darunter nicht klingt.
 
-Ich schaue Hank an, als würde ich nicht ihn prüfen, sondern seine Wirkung. Nicht trotzig. Nicht stolz. Ruhig – auf die Art, die man nicht sofort einordnen kann.
+Ich schaue Hank an, als würde ich nicht ihn prüfen, sondern seine Wirkung. Nicht trotzig. Nicht stolz. Eher: ruhig auf die Art, die man nicht sofort einordnen kann.
 
 Stille ist immer ein Angebot. Oder eine Drohung. Meistens beides.
 
@@ -16,7 +18,11 @@ Ich sehe, wie Colbert den Schulterkontakt im letzten Moment löst – wie ein Sa
 
 Aurelia bleibt ruhig. Sie macht nicht mit. Sie muss nicht. Sie ist nicht die, die Dinge „regelt“. Sie ist die, an der Regeln sich ausrichten.
 
+_↩︎ Gegenperspektive: [[Kap_2_Aurelia#kap-2-aurelia|Kapitel 2 – Aurelia]]_
+
 Thomas hebt den Blick. Sein Lächeln ist kontrolliert, nicht unterwürfig. Gut. Wenn er hier lernen will, darf er nicht kuschen – aber er darf auch nicht markieren.
+
+_↩︎ Rücksprung: [[Kap_1_Thomas#kap-1|Kapitel 1]]_
 
 Ich ziehe die Luft ein, leise, und entscheide mich für eine kleine Wahrheit: Wenn Colbert den Rahmen festnagelt, wird der Abend klein. Und ich bin nicht hier, um klein zu werden.
 
@@ -40,13 +46,13 @@ Ich halte seinen Blick nur so lange, dass er versteht: *Ich weiß, was du tust.*
 
 Es ist eine harmlose Frage. Und gleichzeitig ist es eine Umleitung. Colbert hat „Gastgeber“ gespielt. Ich frage nach „Abend“. Nach Verlauf. Nach Erfahrung. Das ist ein anderes Feld. Da hat Colbert keine Checkliste, nur Vermutungen.
 
-Hank antwortet nüchtern. Er klagt nicht. Er schmeichelt nicht. Ich merke selbst, wie müde er klingt – nicht von zu wenig Schlaf, eher von zu viel Innenarbeit.
+Hank antwortet nüchtern. Er klagt nicht. Er schmeichelt nicht. Er klingt müde – nicht von zu wenig Schlaf, eher von zu viel Innenarbeit.
 
 Thomas versucht, das Gespräch nicht zu steuern, nur mitzuschwingen. Er macht es gut. Er ist vorsichtig in der richtigen Richtung.
 
 Aurelia schweigt. Aber ihr Schweigen ist nicht leer. Es ist ein Raum, der wartet, bis jemand den falschen Gegenstand hineinlegt.
 
-Ich entscheide, dass ich nicht diejenige sein werde, die den falschen Gegenstand liefert.
+Ich entscheide mich, dass ich nicht diejenige sein werde, die den falschen Gegenstand liefert.
 
 „Colbert“, sage ich, leicht, fast spielerisch, „du klingst heute so, als würdest du ein Protokoll schreiben.“
 
@@ -62,9 +68,23 @@ Ich sehe von Colbert zu Aurelia und wieder zurück. Nicht wie jemand, der sich v
 
 Ein leiser Respekt entsteht dabei – nicht weich, eher präzise.
 
-Hank wirkt, als wäre er nicht hier, um sich einzupassen. Er ist eher ein Körper, der prüft, ob der Raum korrekt gebaut ist. Ich sehe, wie Colbert das für einen Moment begreift. Nur ein Wimpernschlag. Dann legt er wieder Freundlichkeit darüber, wie Verpackung über Kanten.
+Ich spüre ihn. Ich benenne ihn nicht. Ich nutze ihn.
 
-„Auf Hank“, sagt Colbert und hebt sein Glas.
+Und ich spüre, wie der Abend sich an einer Stelle teilt, die keiner anspricht:
+
+Colbert will Ordnung.
+
+Aurelia *ist* Ordnung.
+
+Thomas sucht Anschluss.
+
+Und Hank… Hank ist die Variable, die nicht fragt, ob sie darf.
+
+Die meisten Menschen treten in einen Raum und passen sich an. Hank tritt in einen Raum und prüft, ob er ihn verändern muss.
+
+Ich sehe, wie Colbert für einen Moment genau das begreift. Nur ein Wimpernschlag. Dann legt er wieder Freundlichkeit darüber, wie Verpackung über Kanten.
+
+„Auf Hank“, sagt er, hebt sein Glas.
 
 Ein Toast ist ein Trick: Er macht Zustimmung automatisch. Wer nicht mithebt, wird sichtbar.
 
@@ -76,7 +96,7 @@ Colbert gewinnt, für diesen Moment.
 
 Und ich merke, dass ich ihm den nächsten Moment nicht schenken will.
 
-„Hank“, sage ich, und ich lächle wieder – diesmal ein bisschen schmaler. „Wenn du schon hier bist: Was ist für dich eigentlich *Vernunft*?“
+„Hank“, sage ich, und ich lächle wieder, diesmal ein bisschen schmaler, „wenn du schon hier bist: Was ist für dich eigentlich *Vernunft*?“
 
 Ich sehe, wie Colbert kurz einfriert. Nur innen.
 
@@ -88,6 +108,4 @@ Hank schaut mich an – nicht freundlich, nicht feindlich. Nur klar.
 
 Als hätte ich ihm gerade erlaubt, den Raum zu betreten, ohne Gast zu sein.
 
-Und ich denke: *So.*  
-*Jetzt haben wir einen Abend.*
-
+Und ich denke: *So. Jetzt haben wir einen Abend.*

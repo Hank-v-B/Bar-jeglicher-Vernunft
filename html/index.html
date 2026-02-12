@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Bar jeglicher Vernunft – Start</title>
+<style>
+    :root {
+      --bg: #0b0d10;
+      --card:#121720;
+      --text:#e9eef5;
+      --muted:#b8c2cf;
+      --link:#7dd3fc;
+      --border:#223041;
+    }
+    html,body { margin:0; padding:0; background:var(--bg); color:var(--text); font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial; }
+    a { color:var(--link); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .wrap { max-width: 920px; margin: 0 auto; padding: 28px 18px 60px; }
+    header { display:flex; flex-direction:column; gap:10px; padding: 18px 18px; background:linear-gradient(180deg, rgba(125,211,252,0.10), rgba(125,211,252,0.00)); border:1px solid var(--border); border-radius: 16px; }
+    h1 { margin:0; font-size: 26px; letter-spacing: 0.2px; }
+    .sub { margin:0; color:var(--muted); line-height:1.4; }
+    .grid { display:grid; grid-template-columns: 1fr; gap:12px; margin-top: 16px; }
+    @media (min-width: 780px) { .grid { grid-template-columns: 1fr 1fr; } }
+    .card { background: var(--card); border:1px solid var(--border); border-radius: 16px; padding: 14px 14px; }
+    .card h2 { margin:0 0 8px; font-size: 16px; color:var(--muted); font-weight:600; }
+    .toc ol { margin: 0; padding-left: 18px; }
+    .toc li { margin: 10px 0; line-height: 1.35; }
+    .hint { font-size: 14px; color: var(--muted); }
+    code { background: rgba(233,238,245,0.08); padding: 2px 6px; border-radius: 8px; }
+    footer { margin-top: 18px; color: var(--muted); font-size: 13px; }
+  </style>
+<link href="site.css" rel="stylesheet"/></head>
+<body>
+<div class="wrap">
+<header>
+<h1>Bar jeglicher Vernunft</h1>
+<p class="sub">Startseite der HTML-Fassung. Kapitel sind konsequent <b>Ich</b> pro Datei. Sonderregel: <b>Kapitel 1 (Thomas)</b> bleibt <b>namenfrei</b>.</p>
+<p class="hint">Tipp: Du kannst direkt auf das jeweilige Kapitel-Heading springen (Anchor <code>#kap-…</code>).</p>
+</header>
+<div class="grid">
+<section class="card toc">
+<h2>Inhaltsübersicht</h2>
+<ol>
+<li><a href="Kap_1_Thomas.html#kap-1">Kapitel 1 (Thomas – namenfrei)</a></li><li><a href="Kap_1_1_Colbert.html#kap-1-1-colbert">Kapitel 1.1 – Colbert</a></li><li><a href="Kap_1_2_Aurelia.html#kap-1-2-aurelia">Kapitel 1.2 – Aurelia</a></li><li><a href="Kap_2_Aurelia.html#kap-2-aurelia">Kapitel 2 – Aurelia</a></li><li><a href="Kap_2_1_Colbert.html#kap-2-1-colbert">Kapitel 2.1 – Colbert</a></li><li><a href="Kap_2_2_Francine.html#kap-2-2-francine">Kapitel 2.2 – Francine</a></li>
+</ol>
+</section>
+<section class="card">
+<h2>Dokumente</h2>
+<ul style="margin:0; padding-left:18px;">
+<li><a href="bjv._Vorlage.html#romanvorlage">Vorlage / Regeln</a></li>
+</ul>
+<p class="hint" style="margin-top:10px;">Wenn du später eine Multi-Page-Website willst: nächster Schritt wäre <i>Prev/Next-Navigation</i> in jeder HTML-Datei.</p>
+</section>
+</div>
+<footer>
+<div>Erzeugt: 2026-02-12 02:52</div>
+</footer>
+</div>
+<footer class="mc-footer" role="contentinfo">
+<p>Bar jeglicher Vernunft – Export (HTML) • Navigiere über die Links oben/unten.</p>
+</footer></body>
+</html>
