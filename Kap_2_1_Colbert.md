@@ -4,98 +4,48 @@ Ich merke es sofort: Aurelia kommt nicht einfach herein. Sie verändert den Raum
 
 Die Tür öffnet sich, und für einen Moment sortiert sich die Aufmerksamkeit neu – nicht laut, nicht sichtbar, aber eindeutig. Aurelia erzeugt keinen Lärm. Sie erzeugt Priorität.
 
-Neben ihr steht ein Neuer: Thomas. Haltung sauber, Tempo minimal gedrosselt, Blick wach. Kein Auftritt, kein Entschuldigen. Gut. Menschen, die sich sofort erklären, sind leichter. Menschen, die zuerst lesen, sind interessanter.
+Ich registriere das. Und ich lasse nicht zu, dass der Raum sich „von selbst“ neu ordnet. Ich nehme die Bewegung und mache daraus eine Ansage – höflich verpackt, sauber geführt.
 
-Aurelia führt ihn nicht an der Hand, aber sie hält ihn in ihrer Gravitation. Ein halber Schritt, ein Winkel, ein Blick, der sagt: _Du bist bei mir, also bist du richtig._ Das ist Schutz und Bindung in einem.
+Ich trete einen halben Schritt vor, als wäre das mein natürlicher Platz.
 
-Ich registriere: Sie bringt ihn nicht mit, um zu protzen. Sie bringt ihn mit, um zu testen. Wahrscheinlich uns. Vielleicht ihn. Wahrscheinlich beides.
+„Aurelia“, sage ich, und es klingt wie eine Begrüßung. Es ist aber auch ein Rahmen: *Hier ist der Ablauf. Hier ist die Form.*
 
-Francine sitzt schon. Ruhig, präsent, in diesem Modus, der nach Wärme aussieht und doch Grenzen hat. Sie sieht Aurelia, und ich sehe an Francines Mikroreaktion: Sie nimmt Aurelia ernst, aber sie gibt ihr nicht sofort die Führung. Sauber.
+Sie antwortet ruhig. Kein Widerstand, aber auch keine Unterordnung. Sie muss nicht kämpfen. Sie muss nur da sein.
 
-Aurelia steuert an unseren Tisch, als wäre es die naheliegendste Sache der Welt. Keine Frage. Kein „ist hier frei?“. Sie legt den Rahmen: _Wir gehören hierher._
+Ich halte den Rhythmus bewusst einfach. Ein Satz. Ein Atem. Blickkontakt. Dann der nächste Satz. Form ist nicht Härte – Form ist Reibungsarmut.
 
-„Ich wollte, dass ihr euch kennenlernt“, sagt sie.
+„Wir fangen an, bevor es kippt“, sage ich. „Heute ohne Nebel.“
 
-Das ist ein Satz, der gleichzeitig Nähe schafft und Verantwortung verteilt. Wenn es gut läuft, war es ihr Instinkt. Wenn es schlecht läuft, war es nur ein Versuch.
+Ich schaue kurz zu Thomas. Nicht fragend. Feststellend. Ich will, dass er als Variable eingeordnet bleibt.
 
-Thomas gibt die Hand. Druck kontrolliert, Dauer korrekt. Er versucht nicht zu gewinnen. Er versucht nicht zu gefallen. Er versucht, nicht zu stören. Das ist selten – und es ist entweder Disziplin oder Angst. Ich entscheide mich vorläufig für Disziplin.
+Thomas sitzt schräg, aufmerksam, als würde er sich selbst bremsen, damit er nicht zu schnell zu viel sagt. Francine lächelt wie jemand, der die Temperatur im Raum spürt, bevor andere merken, dass es überhaupt eine gibt.
 
-Ich erwidere den Handschlag neutral-freundlich. Freundlichkeit ist Standard, solange ich die Variablen nicht kenne.
+Ich lege die Hand an mein Glas, hebe es aber noch nicht. Ich warte – bis alle bereit sind, mitzuspielen. Diese kleinen Mechaniken sind nie klein. Sie sind nur leise.
 
-„Colbert“, sage ich.
+„Regel“, sage ich. „Wir schneiden keine Sätze ab. Wir reden nacheinander. Und wir sagen’s so, dass man’s später wiederholen kann.“
 
-„Francine“, sagt Francine, bevor ich es tun kann. Sie macht es leicht, aber nicht billig.
+Aurelia nickt, als wäre das selbstverständlich. Es ist ihr egal, ob es Regeln gibt. Sie ist nur interessiert, ob die Regeln echt sind.
 
-Thomas nickt. „Thomas.“
+„Gut“, sagt Francine leise, und ich höre darin: *Ich lasse dich machen – aber nicht gratis.*
 
-Aurelia setzt sich so, dass sie nicht wie Zentrum wirkt, aber trotzdem die Achse bleibt. Sie wählt den Platz nicht nach Komfort, sondern nach Sichtlinien. Ich kenne das Muster.
+Ich fahre fort.
 
-„Er ist gut darin, Fragen zu stellen“, sagt Aurelia, „und er bleibt dabei freundlich.“
+„Jeder sagt: Was er will. Was er nicht mehr will. Und was er bereit ist zu tragen.“
 
-Sie vergibt ihm ein Etikett. Das schützt ihn – und bindet ihn. Wenn er später hart wird, widerspricht er Aurelias Rahmen. Wenn er weich bleibt, erfüllt er ihn. In beiden Fällen kontrolliert sie die Interpretation.
+Das Wort „tragen“ hängt einen Moment zu schwer in der Luft. Man sieht daran, wer Last kennt – und wer nur Kosten kennt.
 
-Thomas fragt tatsächlich. Unaufdringlich, aber gezielt. Nicht: „Was macht ihr?“ – sondern: „Wann merkt man, dass Gespräche nicht mehr nur Gespräche sind?“
+Ich prüfe die Spannung kurz, wie ein Techniker den Druck auf einer Leitung testet.
 
-Gute Frage. Kein Smalltalk. Das ist ein Testballon. Er will sehen, ob wir über Oberfläche hinausgehen, ohne dass er sich selbst exponiert.
+„Und wenn jemand heute wieder so tut, als wäre das hier nur ein netter Abend“, sage ich, „dann sparen wir uns den Rest. Dann gehen wir nach Hause und nennen’s beim Namen: Es hat nicht gereicht.“
 
-Francine antwortet zuerst. Sie nimmt dem Raum die Kälte, bevor sie entsteht. „Wenn jemand plötzlich recht haben will“, sagt sie. Treffend. Und sozial sicher.
+Aurelia schaut mich an, und ich kann nicht sagen, ob sie beeindruckt ist oder nur interessiert. Beides reicht mir.
 
-Ich ergänze knapp, weil knappe Sätze weniger Angriffsfläche bieten. „Wenn Regeln ausgesprochen werden müssen.“ Das ist für mich der Punkt: Sobald man Regeln nennen muss, ist Vertrauen schon beschädigt.
+Thomas atmet aus, als hätte er sich innerlich auf „Konflikt“ eingestellt und jetzt auf „Form“ umschalten müssen.
 
-Thomas nickt, als würde er die Antworten einsortieren. Dann: „Und was ist hier die Regel?“
+Francine nimmt einen Schluck und lächelt.
 
-Aurelia fängt ihn ab, bevor er uns zwingt, Position zu beziehen. „Wir tun nicht so, als wären wir zufällig hier.“
+Und ich denke: Ich will Ordnung.
 
-Elegant. Präzise genug, dass ich sie akzeptieren kann. Weich genug, dass Francine sie mögen kann. Und natürlich: Aurelia setzt damit sich selbst als Struktur.
+Aurelia *ist* Ordnung.
 
-Ich lasse das laufen. Ich beobachte Thomas’ Timing. Ich beobachte, ob Francine etwas preisgibt, was später gegen sie verwendet werden könnte. Ich beobachte, ob Aurelia mehr kontrolliert, als sie vorgibt.
-
-Dann passiert etwas anderes.
-
-Nicht am Tisch. Im Raum.
-
-Mein Blick geht rüber, ohne dass ich es aktiv plane. Es ist der automatische Scan: Umgebung, neue Reize, Unstimmigkeiten.
-
-Ich sehe Hank.
-
-Ein paar Tische weiter. Still. Nicht abwesend. Still im Sinne von gesammelt. Keine sichtbare Anstrengung, kein Schauspiel. Er ist da, als wäre er auch allein vollständig.
-
-Und genau das ist das Problem.
-
-Still ist schwer einzuschätzen.
-
-Lautstärke kann man lesen. Nervosität kann man lesen. Bedürftigkeit kann man lesen. Eitelkeit kann man lesen. Selbst Aggression ist oft berechenbar.
-
-Stille ist anders. Stille kann Tarnung sein. Stille kann Kontrolle sein. Stille kann ein Mensch sein, der schon entschieden hat, während die anderen noch reden.
-
-Vorsicht ist geboten.
-
-Ich kann Hank nicht sauber klassifizieren. Kein sofortiges Etikett, das ihn in eine Schublade zwingt. Und was sich nicht schubladisieren lässt, kostet Risiko.
-
-Preis: hoch.
-
-Also treffe ich die einzige sinnvolle Entscheidung, wenn eine Variable unklar ist: Ich reduziere ihre Freiheit, bevor sie meine reduziert.
-
-Ich stehe auf, ohne es als Unterbrechung wirken zu lassen. „Ich bin gleich wieder da“, sage ich, als wäre es nur Logistik.
-
-Aurelia schaut kurz hoch. Sie versteht, dass ich etwas setze. Francine registriert. Thomas registriert. Gut. Sie sollen sehen, dass ich den Raum im Blick habe.
-
-Ich gehe zu Hank.
-
-Mit freundlichem Gesicht.
-
-Freundlichkeit ist die beste Verpackung für Kontrolle.
-
-Ich umarme ihn, scheinbar herzlich. Kurz, fest, Rückenklopfen. Außenwirkung: Vertrautheit. Innenwirkung: Rahmensetzung.
-
-„Hank“, sage ich warm. „Was für ein Zufall.“
-
-Zufall entzieht Absicht. Absicht macht misstrauisch.
-
-Ich lege ihm die Hand an die Schulter – beiläufig, als wäre es nur Nähe – und lenke ihn in Bewegung. Bengeln, freundlich, selbstverständlich. Wer sich bewegen lässt, akzeptiert für den Moment Führung. Oder er prüft mich, indem er es zulässt. Beides gibt mir Daten.
-
-„Komm“, sage ich. „Du musst die anderen sehen.“
-
-Und während ich ihn zum Tisch mitnehme, denke ich nur: _Still ist gefährlich. Nicht, weil es böse ist. Sondern weil es unberechenbar ist._
-
-Und Unberechenbarkeit lasse ich nicht gern allein im Raum.
+Und ich sehe, wie der Abend wieder zu einer Prüfung wird – nur diesmal mit Protokoll.

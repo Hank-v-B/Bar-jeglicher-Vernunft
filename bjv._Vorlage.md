@@ -5,7 +5,7 @@
 > **Erzählregel:**
 > _Pro Kapitel genau eine Perspektive (POV). Erkennbar nur über Kapitelwechsel + individuelle Stimme (Idiolekt)._
 > **In Kapitel 1 werden keine Namen genannt.**
-> **Namensnennugen erst ab Kapitel 2.**
+> **Namensnennugen erst ab Kapitel 1.12.**
 ---
 
 ## 0) Projekt-Header
