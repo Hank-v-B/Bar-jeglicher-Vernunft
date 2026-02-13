@@ -1,111 +1,135 @@
 # Kapitel 2.2 – Francine {#kap-2-2-francine}
 
-Colbert sagt seinen Satz wie ein Gastgeber. Als hätte er Hank nicht „mitgebracht“, sondern gefunden.
+<!--NAV:START-->
+<nav aria-label="Kapitel Navigation" class="mc-nav" role="navigation">
+<div class="mc-nav-inner">
+<a class="nav-link home" href="./index.html">Zur Startseite</a>
+<div class="mc-nav-spacer"></div>
+<a class="nav-link prev" href="./Kap_2_1_Kolbert.html">← Zurück</a>
+<a class="nav-link next" href="./Kap_2_3_Mockridge.html">Weiter →</a>
+</div>
+</nav>
+<!--NAV:END-->
 
-_↩︎ Kontext: [[Kap_2_1_Colbert|Kapitel 2.1 – Colbert]]_
+Ich mag es nicht, wenn Abende so tun, als wären sie leicht, und dann plötzlich schwer werden.
 
-„Hank ist auch hier.“
+Das ist wie eine Tür, die zuerst freundlich quietscht und dir dann die Finger einklemmt.
 
-Ich registriere sofort, wie sich der Raum aufstellt: ein kurzer Fokus, ein stilles Sortieren. Ein Toast kann so etwas später wieder weich machen, aber der erste Impuls ist ehrlich.
+Heute ist es noch nicht schwer.
+Heute ist es… gespannt.
+So wie kurz vor einem Lachen, das noch nicht weiß, ob es nett oder scharf wird.
 
-Ich lächle. In solchen Momenten ist ein Lächeln selten ein Gefühl. Es ist ein Werkzeug. Es hält den Raum weich, damit das Metall darunter nicht klingt.
+Kolbert sitzt da mit seinem „Wir machen das jetzt ordentlich“-Gesicht.
+Nicht unsympathisch. Nur sehr… Kolbert.
+Er kann nicht anders, und ehrlich: manchmal bin ich froh darüber.
+Weil Menschen ohne Kolbert-Typen oft so lange weich bleiben, bis sie völlig formlos werden.
 
-Ich schaue Hank an, als würde ich nicht ihn prüfen, sondern seine Wirkung. Nicht trotzig. Nicht stolz. Eher: ruhig auf die Art, die man nicht sofort einordnen kann.
+Aurelia ist neben ihm, und Aurelia wirkt, als hätte sie die Bedienungsanleitung für Räume gelesen.
+Nicht arrogant.
+Eher: wissend.
 
-Stille ist immer ein Angebot. Oder eine Drohung. Meistens beides.
+Thomas sitzt so, als würde er nicht zu viel Platz nehmen wollen.
+Das ist sympathisch.
+Und gefährlich.
+Weil zu wenig Platz auch ein Trick sein kann: Wenn du klein wirkst, unterschätzen dich alle.
 
-Ich sehe, wie Colbert den Schulterkontakt im letzten Moment löst – wie ein Satzzeichen. Er hat den Punkt gesetzt. Er will, dass alle verstehen, wer gerade die Logistik besitzt.
+Hank ist hinter dem Tresen.
+Hank ist die Konstante.
+Wenn der Abend kippt, wird er’s merken, bevor wir’s merken.
 
-Aurelia bleibt ruhig. Sie macht nicht mit. Sie muss nicht. Sie ist nicht die, die Dinge „regelt“. Sie ist die, an der Regeln sich ausrichten.
+Ich sehe, wie Kolbert die Regel setzt: „Nicht zufällig.“
+Das ist gut. Das ist ein Rahmen.
+Aber Rahmen können auch Käfige sein.
 
-_↩︎ Gegenperspektive: [[Kap_2_Aurelia#kap-2-aurelia|Kapitel 2 – Aurelia]]_
+Thomas fragt nach dem, was wir wirklich wollen.
+Und für einen Moment passiert etwas Seltenes:
 
-Thomas hebt den Blick. Sein Lächeln ist kontrolliert, nicht unterwürfig. Gut. Wenn er hier lernen will, darf er nicht kuschen – aber er darf auch nicht markieren.
+Niemand antwortet sofort.
 
-_↩︎ Rücksprung: [[Kap_1_Thomas#kap-1|Kapitel 1]]_
+Das ist gut.
+Sofort-Antworten sind meistens Rollen.
+Echte Antworten brauchen eine Sekunde mehr, weil man kurz prüfen muss, ob man sie wirklich geben will.
 
-Ich ziehe die Luft ein, leise, und entscheide mich für eine kleine Wahrheit: Wenn Colbert den Rahmen festnagelt, wird der Abend klein. Und ich bin nicht hier, um klein zu werden.
+Ich nehme einen Schluck und entscheide mich, den Abend nicht zu einem Verhör werden zu lassen.
 
-„Hank“, sage ich, und ich lasse die Stimme auf der Linie zwischen warm und klar laufen. „Schön, dass du da bist.“
+„Bevor wir jetzt alle große Wahrheiten rausholen“, sage ich, „können wir kurz anerkennen, dass wir auch einfach müde sind?“
 
-Nicht: *Was für ein Zufall.* Das ist Colberts Wort. Zufall nimmt Verantwortung, und Verantwortung ist in diesem Raum gerade die Währung.
+Thomas lacht.
+Aurelia lächelt.
+Kolbert schaut mich an, als würde er überlegen, ob das Nebel ist oder Wahrheit.
 
-Hank nickt. Er sagt etwas Kurzes. Die Art von Satz, die nichts fordert. Das macht Menschen nervös – weil man ihn nicht packen kann, ohne sichtbar zu packen.
+Es ist Wahrheit.
+Aber eine freundliche.
 
-Ich merke, wie Aurelia ihn ansieht: nicht prüfend, nicht besitzend, eher wie jemand, der einen Gegenstand erkennt, der lange im Dunkeln lag. Ich frage mich, was sie über ihn weiß. Und was sie nicht sagt.
+„Müde ist okay“, sagt Thomas.
 
-Ich schiebe mein Glas einen Zentimeter zur Seite. Ein Zentimeter ist genug, um einen Sitzplatz zu definieren, ohne ihn zu deklarieren. Die Leute glauben gern, sie hätten selbst entschieden.
+„Müde ist ehrlich“, sage ich.
 
-„Setz dich“, sage ich, als wäre es selbstverständlich, dass es noch Platz gibt. Und natürlich gibt es Platz. Platz ist immer eine Frage von Wille.
+Aurelia legt den Kopf leicht schief, dieses: interessant.
 
-Colbert beobachtet mich. Nicht offen. Aber er registriert. Er ist nicht eifersüchtig. Er ist nur aufmerksam, wenn jemand anderes Führungsarbeit macht.
+Ich schaue kurz zu Hank.
+Er poliert ein Glas, das schon glänzt.
+Er tut das, was Barkeeper tun, wenn sie merken, dass Leute an einer Kante stehen: Er hält den Hintergrund stabil.
 
-Ich halte seinen Blick nur so lange, dass er versteht: *Ich weiß, was du tust.* Dann gebe ich ihm das Geschenk, das er am liebsten annimmt – Normalität.
+„Also“, sage ich, „was ich will?“
 
-„Wie war dein Abend bisher?“ frage ich Hank.
+Ich spüre, dass alle zuhören.
+Nicht, weil ich wichtig bin.
+Sondern weil jemand anfangen muss.
+Und anfangen ist immer ein Risiko.
 
-Es ist eine harmlose Frage. Und gleichzeitig ist es eine Umleitung. Colbert hat „Gastgeber“ gespielt. Ich frage nach „Abend“. Nach Verlauf. Nach Erfahrung. Das ist ein anderes Feld. Da hat Colbert keine Checkliste, nur Vermutungen.
+„Ich will“, sage ich, „dass wir uns nicht ständig selbst verkaufen müssen. Nicht als die Gute. Nicht als die Coole. Nicht als die Vernünftige.“
 
-Hank antwortet nüchtern. Er klagt nicht. Er schmeichelt nicht. Er klingt müde – nicht von zu wenig Schlaf, eher von zu viel Innenarbeit.
+Ich sehe Thomas’ Blick: verstanden.
+Ich sehe Aurelias Blick: registriert.
+Ich sehe Kolberts Blick: bewertet.
 
-Thomas versucht, das Gespräch nicht zu steuern, nur mitzuschwingen. Er macht es gut. Er ist vorsichtig in der richtigen Richtung.
+„Und was willst du nicht mehr?“ fragt Thomas.
 
-Aurelia schweigt. Aber ihr Schweigen ist nicht leer. Es ist ein Raum, der wartet, bis jemand den falschen Gegenstand hineinlegt.
+Ich lache kurz, weil die Frage so sauber ist, dass sie fast komisch ist.
+Fast wie ein Formular.
+Aber gut. Formulare können retten.
 
-Ich entscheide mich, dass ich nicht diejenige sein werde, die den falschen Gegenstand liefert.
+„Ich will nicht mehr diese Abende, in denen man am Ende nach Hause geht und sich denkt: Warum hab ich das so gesagt? Warum hab ich das geschluckt?“
 
-„Colbert“, sage ich, leicht, fast spielerisch, „du klingst heute so, als würdest du ein Protokoll schreiben.“
+Kolbert nickt minimal.
+Natürlich nickt er. Schlucken ist ineffizient.
 
-Ein kleiner Stich. In Samt.
+Aurelia schaut in den Raum, nicht auf mich.
+Sie hört, aber sie will nicht greifen.
 
-Colbert lächelt nicht, aber etwas in seinem Gesicht entspannt sich. Er nimmt es als Kompliment, weil er es so nehmen will. Er ist gut darin, Angriffe in Bestätigung umzuwandeln. Das ist seine Form von Vernunft: alles in Nutzen verwandeln.
+„Und was bist du bereit zu tragen?“ fragt Thomas.
 
-„Gewohnheit“, sagt er.
+Da ist das Wort.
+Tragen.
+Nicht „geben“, nicht „bezahlen“. Tragen.
 
-Natürlich sagt er das. Gewohnheit ist das Wort, mit dem man Kontrolle entdramatisiert.
+Ich spüre, wie es bei mir kurz schwer wird.
+Nicht dramatisch schwer.
+Eher dieses: Okay, jetzt wird’s echt.
 
-Ich sehe von Colbert zu Aurelia und wieder zurück. Nicht wie jemand, der sich verirrt, sondern wie jemand, der Kartografie betreibt. Ich sammle Kanten. Ich messe Abstände. Ich merke mir Blickachsen.
+„Ich bin bereit“, sage ich, „den Moment auszuhalten, wenn es peinlich wird.“
+„Wenn jemand stockt.“
+„Wenn jemand merkt, dass er eigentlich keine gute Antwort hat.“
 
-Ein leiser Respekt entsteht dabei – nicht weich, eher präzise.
+Thomas nickt.
 
-Ich spüre ihn. Ich benenne ihn nicht. Ich nutze ihn.
+„Weil“, füge ich hinzu, „genau da passiert meistens was Nützliches.“
 
-Und ich spüre, wie der Abend sich an einer Stelle teilt, die keiner anspricht:
+Aurelia lächelt jetzt deutlich.
+Nicht nett. Eher zufrieden.
 
-Colbert will Ordnung.
+Kolbert nimmt einen Schluck.
+Er sagt nichts.
+Aber ich sehe, dass er das einsortiert.
 
-Aurelia *ist* Ordnung.
+Ich drehe mich minimal zu Hank und hebe mein Glas einen Zentimeter.
 
-Thomas sucht Anschluss.
+„Und Hank?“ frage ich, halb im Spaß, halb ernst.
+„Was willst du eigentlich?“
 
-Und Hank… Hank ist die Variable, die nicht fragt, ob sie darf.
+Hank schaut kurz auf.
+Er lächelt nicht groß.
+Aber seine Augen haben dieses trockene Blitzen.
 
-Die meisten Menschen treten in einen Raum und passen sich an. Hank tritt in einen Raum und prüft, ob er ihn verändern muss.
-
-Ich sehe, wie Colbert für einen Moment genau das begreift. Nur ein Wimpernschlag. Dann legt er wieder Freundlichkeit darüber, wie Verpackung über Kanten.
-
-„Auf Hank“, sagt er, hebt sein Glas.
-
-Ein Toast ist ein Trick: Er macht Zustimmung automatisch. Wer nicht mithebt, wird sichtbar.
-
-Ich hebe mein Glas. Ich hasse solche Tricks nicht. Ich registriere sie.
-
-Aurelia hebt ihr Glas. Thomas auch. Hank zögert eine Spur zu lang – nicht trotzig, eher abwesend. Dann hebt er es.
-
-Colbert gewinnt, für diesen Moment.
-
-Und ich merke, dass ich ihm den nächsten Moment nicht schenken will.
-
-„Hank“, sage ich, und ich lächle wieder, diesmal ein bisschen schmaler, „wenn du schon hier bist: Was ist für dich eigentlich *Vernunft*?“
-
-Ich sehe, wie Colbert kurz einfriert. Nur innen.
-
-Aurelias Augen werden wach.
-
-Thomas hält den Atem an, als hätte jemand die Musik gewechselt.
-
-Hank schaut mich an – nicht freundlich, nicht feindlich. Nur klar.
-
-Als hätte ich ihm gerade erlaubt, den Raum zu betreten, ohne Gast zu sein.
-
-Und ich denke: *So. Jetzt haben wir einen Abend.*
+„Dass ihr’s nicht kaputt macht

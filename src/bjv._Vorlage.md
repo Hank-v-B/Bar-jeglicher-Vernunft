@@ -13,12 +13,10 @@
 
 **Authoring-Regeln**
 - Kapitel/Datei verlinken: `[[Kap_2_2_Francine]]`
-- Mit Anzeigetext: `[[Kap_2_2_Francine|Kapitel 2.2 – Francine]]`
 - Mit Anchor/ID: `[[Kap_2_2_Francine#kap-2-2-francine|Sprung zu 2.2]]`
 
 **Beispiele**
 - Kontextlink: `[[Kap_2_1_Colbert|Vorher: Colbert (2.1)]]`
-- Gegenperspektive: `[[Kap_2_Aurelia|Aurelia (2)]]`
 - Rücksprung: `[[Kap_1_Thomas|Zum Auftakt (Kapitel 1)]]`
 
 ---
@@ -40,7 +38,8 @@
 3) Ressourcen sind knapp; jede Entscheidung hat Gewinner/Verlierer.
 
 ### 1.2 Reize (wiederkehrende Signaturen)
-- **Bar-Atmosphäre:** Neonflackern, Kühlschrankbrummen, Gläserklirren; Geruch aus altem Bier, nassem Mantel, abgestandenem Raum.
+- **Bar-Atmosphäre:** Kühlschrankbrummen, Gläserklirren; Geruch aus altem Bier, nassem Mantel, abgestandenem Raum.
+- **Bar-Umgang:** Offen, ehrlich, hart, durchmischt von Normalen bis Intelektuelle und Künstler
 - **Soziale Waffen:** Lächeln ohne Augen, Blickschnitte, bestätigendes Nicken als Machtgeste, übertriebene Höflichkeit als Demütigung.
 - **Status-Codes:** Uhr/Schuhe/Wortwahl, Trinkgeldrituale, „selbstverständliche“ Gewohnheiten.
 
@@ -53,16 +52,17 @@
 
 ### 2.1 Rollen (Labels)
 - **Beobachter** (introvertiert; wird am Ende zur eigentlichen Hauptfigur) (Thomas)
-    - Thomas ist der mysteriöse Erzähler in Kapitel_1_Thomas    
-- **Frontfigur** (laut; drückt Entscheidungen) (Kolbert)
+    - Thomas (der Zweifler) ist der mysteriöse Erzähler in Kapitel_1_Thomas    
+- **Barkeeper** (Nicht wohlhabend aber nicht pleite; Stolz, Abwehr gegen Herablassung, ruhig geordnet, Immer Herr der Lage, mehr mit Gesten als mit Worten) (Hank)
+- **Reizfigur** (laut; drückt Entscheidungen; egomansich, heimtückisch, grissen, handelt hinter den Kulissen, ist sehr materialistisch) (Kolbert)
+- **Judas-Figur** (hat kaum eigene Meinung; folgt Kolbert, taucht nie ohne ihne auf; Ist scharf auf Aurelia; ist nicht attraktiv genug für Aurelia) (Jasper)
 - **Reiche** (oben; Statusangst) (Aurelia)
 - **Vermittlerin** (emotionaler Kitt) (Francine)
-- **Brandbeschleuniger** (subtil; befeuert Misstrauen) (Chester)
+- **Brandbeschleuniger** (subtil; befeuert Misstrauen, wurde selbst betrogen, sucht eigentlich Vertrauen) (Chester)
 - **Idealistin** (moralischer Kompass, kompromissscheu) (Prudence)
     - Mag und bewundert Thomas, ist aber zu scheu sich ihm anzunähern
 - **Pragmatikerin** (lösungsorientiert) (Cassandra)
-- **Zyniker** (entlarvend, schützt eigene Wunde) (Mockridge)
-- **Armer** (unten; Stolz, Abwehr gegen Herablassung) (Hank)
+- **Zyniker** (entlarvend, schützt eigene Wunde, eingentlich guter Kerl, aber nicht durchsetzungsfähig, projeziert seine Schwächen auf Andere) (Mockridge)
 
 
 ## POV-Guide: Thomas
@@ -286,29 +286,16 @@
 - Lieblingswörter: _[„wir“, „bitte“]_
 - Denkmuster: Verbindung/Scham/Vertrauen
 
----
-
 ## POV-Guide: Hank
 **Mittelstands-Kid, rebellisch**
 - Spielt Gitarre und Schlagzeug
 - Weiß nicht recht wohin mit sich
-- Ist ständig im Streit mit allem und Jedermann
 - Satzbau: direkt / kurz, manchmal ausufernd, wenn es um Gerechtigkeit und Fairness geht. Spricht direkt ohne Umwege.
 - Lieblingswörter: „ehrlich“, „lass“, "Komm" "Ach ja?" "Na und?" "Haub ab"
-  
-## 3) Struktur & Umfangplanung
-### 3.1 Ziel-Architektur (ca. 200 Seiten)
-- **30 Kapitel** à ca. **6–7 Seiten**
-- **Durchschnitt:** 2.200–2.800 Wörter pro Kapitel
 
-> **Faustregel:** 30 Kapitel × 2.500 Wörter ≈ 75.000 Wörter → typischer 200-Seiten-Roman.
-
-### 3.2 Beat-Landkarte (8 Beats)
-1) Setup
-2) Streiereien
-3) Eskalation
-4) Bessingung
-5) Neuer Anfamg - alles wird schlimmer
-6) Allianzen und Selbstschutz
-7) Finale
-8) Resolution
+## POV-Guide: Jasper
+**Mittelstands-Kid, schlecht erzogen, verwöhnt**
+- Mag keine Brombeeren
+- Hat keine Ahnung von Polka und hat keinen Tanzrhytmus
+- Satzbau:
+- Lieblingswörter:

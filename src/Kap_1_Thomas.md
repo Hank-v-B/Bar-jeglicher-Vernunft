@@ -1,5 +1,14 @@
 # Kapitel 1 {#kap-1}
 
+<!--NAV:START-->
+<nav aria-label="Kapitel Navigation" class="mc-nav" role="navigation">
+<div class="mc-nav-inner">
+<a class="nav-link home" href="./index.html">Zur Startseite</a>
+<div class="mc-nav-spacer"></div>
+<a class="nav-link next" href="./Kap_1_1_Colbert.html">Weiter →</a>
+</div>
+</nav>
+<!--NAV:END-->
 Ein Satz reicht, und der Raum kippt.
 
 Nicht nach außen. Nach innen.
@@ -37,3 +46,7 @@ Das ist eine Prüfung.
 
 Prüfungen bestehen Menschen nicht mit Nettigkeit.  
 Sondern mit Klarheit.
+
+
+
+
