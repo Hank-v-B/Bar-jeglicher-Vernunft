@@ -25,7 +25,12 @@
 - **Arbeitstitel:** Bar jeglicher Vernunft
 - **Logline:** Sind wir alle bar jeglicher Vernunft?
 - **Themenkaskade:**
-  -  _Kann eine Gruppe lernen, sich selbst zu steuern, bevor sie zerfällt?_
+  -  Kann eine Gruppe lernen, sich selbst zu steuern, bevor sie zerfällt?
+  -  Wie viel kann man von den Anderen wirklich sehen?
+  -  Steht Eigeninteresse vor den Bedürfnissen der Vielen?
+  -  Wie kann man seine Überzeugungen Leben ohen Unterzugehen?
+  -  Was zählt Hierachie?
+  -  Sind wir alle grausam?
   -  _Was muss ein Mensch opfern, damit Versöhnung nicht nur Wunsch bleibt?_
   -  _Ist es möglich, die Spezies Mensch zu versöhnen?_
 
@@ -34,17 +39,20 @@
 ## 1) Welt/Setting (Fixpunkte)
 ### 1.1 Weltregeln (harte Constraints)
 1) Geld/Status ist ständig sichtbar und wird bewertet.
-2) Information ist asymmetrisch; Lügen werden belohnt.
+2) Information ist asymmetrisch; Lügen werden belohnt; nur Gemeinschaft nutzt allen
 3) Ressourcen sind knapp; jede Entscheidung hat Gewinner/Verlierer.
+4) Schönheit gewinnt, oder?
 
 ### 1.2 Reize (wiederkehrende Signaturen)
 - **Bar-Atmosphäre:** Kühlschrankbrummen, Gläserklirren; Geruch aus altem Bier, nassem Mantel, abgestandenem Raum.
 - **Bar-Umgang:** Offen, ehrlich, hart, durchmischt von Normalen bis Intelektuelle und Künstler
 - **Soziale Waffen:** Lächeln ohne Augen, Blickschnitte, bestätigendes Nicken als Machtgeste, übertriebene Höflichkeit als Demütigung.
 - **Status-Codes:** Uhr/Schuhe/Wortwahl, Trinkgeldrituale, „selbstverständliche“ Gewohnheiten.
+- Musik ist wichtig, aber die Bar hat keine strikte Vorliebe, was gefällt wird gespielt. Das letzt Wort hat immer Hank.
 
 ### 1.3 Tabu (eine Hauptlinie)
 - **Tabu:** Offene Selbstbereicherung auf Kosten der Gruppe.
+- Frembeziehungen in der Guppe
 
 ---
 
@@ -53,16 +61,27 @@
 ### 2.1 Rollen (Labels)
 - **Beobachter** (introvertiert; wird am Ende zur eigentlichen Hauptfigur) (Thomas)
     - Thomas (der Zweifler) ist der mysteriöse Erzähler in Kapitel_1_Thomas    
-- **Barkeeper** (Nicht wohlhabend aber nicht pleite; Stolz, Abwehr gegen Herablassung, ruhig geordnet, Immer Herr der Lage, mehr mit Gesten als mit Worten) (Hank)
+
+- **Barkeeper** (Nicht wohlhabend aber nicht pleite; Stolz, Abwehr gegen Herablassung, ruhig geordnet, Immer Herr der Lage, mehr mit Gesten als mit Worten; Barkeeper mit Leib und Seele; Friedlicher Typ, kann aber auch richtig aufbrausen, wenn gereitzt.) (Hank)
+
 - **Reizfigur** (laut; drückt Entscheidungen; egomansich, heimtückisch, grissen, handelt hinter den Kulissen, ist sehr materialistisch) (Kolbert)
+
 - **Judas-Figur** (hat kaum eigene Meinung; folgt Kolbert, taucht nie ohne ihne auf; Ist scharf auf Aurelia; ist nicht attraktiv genug für Aurelia) (Jasper)
+
 - **Reiche** (oben; Statusangst) (Aurelia)
+
 - **Vermittlerin** (emotionaler Kitt) (Francine)
+
 - **Brandbeschleuniger** (subtil; befeuert Misstrauen, wurde selbst betrogen, sucht eigentlich Vertrauen) (Chester)
+
 - **Idealistin** (moralischer Kompass, kompromissscheu) (Prudence)
     - Mag und bewundert Thomas, ist aber zu scheu sich ihm anzunähern
+
 - **Pragmatikerin** (lösungsorientiert) (Cassandra)
+
 - **Zyniker** (entlarvend, schützt eigene Wunde, eingentlich guter Kerl, aber nicht durchsetzungsfähig, projeziert seine Schwächen auf Andere) (Mockridge)
+
+- **Der Aussteiger** (jung, mitte 30; oft Verrückt wirkend, aber wenn man ihn genau beobachtet merkt man, dass er einen Plan hat; Ist Alien aber nicht gewalttätig, nur unberechenbar; Stimmungen und spontane Aktionen sind nicht vorhersehbar; ist aus der Gesellschaft ausgestiegen, weil er schon alles hatte wovon man Träumen kann, ist aber an den Menschen gescheitert und hat beschlossen der Allgemeinheit den Irren vorzugaukeln, damit er seine Ruhe hat. Wenn er von jemandem oder einer Situation genervt ist und keine Fluchtmöglichkeit sieht gaukelt er oft vor Durchgeknallt zu sein) (Heribert)
 
 
 ## POV-Guide: Thomas
@@ -292,6 +311,15 @@
 - Weiß nicht recht wohin mit sich
 - Satzbau: direkt / kurz, manchmal ausufernd, wenn es um Gerechtigkeit und Fairness geht. Spricht direkt ohne Umwege.
 - Lieblingswörter: „ehrlich“, „lass“, "Komm" "Ach ja?" "Na und?" "Haub ab"
+
+## POV-Guide: Heribert
+**Unbekannte Herkunft**
+- Spielt Mundharmonika und singt wie ein Engel
+- Ist sportlich und nicht unattraktiv
+- Trägt am liebsten ausgebeulte Klamotten
+- Hat eine Vorliebe für Taschenmesser  
+- Satzbau: Wechselt zwischen parolenhaftem Stakkato und sanftmütiger Eleganz, zu rechthaberisch aufgeblasen, je nachdem welchen Charakter er nach außen trägt.
+- Lieblingswörter:
 
 ## POV-Guide: Jasper
 **Mittelstands-Kid, schlecht erzogen, verwöhnt**
